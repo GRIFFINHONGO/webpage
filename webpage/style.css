@@ -1,0 +1,19 @@
+
+button{
+    
+
+    border: 0cqmin;
+    border-color: red;
+    background-color: yellowgreen;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+        font-size: 16px;
+
+}
+
+a:link{
+    
+    color: red;
+}
